@@ -1,4 +1,4 @@
-name: dopamine_rl
+name: rl-adventure
 channels:
   - conda-forge
   - defaults
