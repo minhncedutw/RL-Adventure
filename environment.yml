@@ -1,0 +1,19 @@
+name: dopamine_rl
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - numpy-base
+  - pip=18.0
+  - python=3.6
+  - pip:
+    - atari_py
+    - gym
+    - numpy
+    - pillow
+    - six
+    - torch
+    - torchvision
+
